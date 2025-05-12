@@ -31,7 +31,7 @@ Here are some of my recent projects:
 How to reach me **purus15987@gmail.com**
 
 * LinkedIn: [purushotham-mailapalli-0207471b3](https://www.linkedin.com/in/purushotham-mailapalli-0207471b3/)
-* Twitter: [Mailapalli Purushotham](https://x.com/Purus15987_jnu)
+* Twitter: [@purus15987](https://x.com/purus15987)
 * Portfolio: [https://mailapalli-purushotham15987.web.app](https://mailapalli-purushotham15987.web.app)
 
 ---
