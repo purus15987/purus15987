@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mailapalli Purushotham</h1>
+<p align="center">ML Engineer (GenAI/CV focus) | Data Scientist | Software Development Engineer (SDE)</p>
 
 A Computer Science graduate from JNU (2024), currently seeking opportunities to start my career as an ML Engineer or research associate. I am deeply passionate about Machine Learning, AI, and research in the tech world.
 
@@ -6,18 +7,19 @@ A Computer Science graduate from JNU (2024), currently seeking opportunities to 
 
 ## About Me
 
-* 🧑‍💻 **Currently**: Actively exploring career opportunities in ML and research.
-* 🎓 **Education**: Master's in Computer Science, JNU, 2024.
-* 🔬 **Research Focus**: Interested in ML, NLP, and computer vision.
-* 🌱 **Currently Learning**: Deep learning techniques, AutoML, and model optimization.
 * 🌍 **Location**: India
+* 🎓 **Education**: Master's in Computer Science, JNU, 2024.
+* 🔬 **Interested in**: ML, NLP, and computer vision.
+* 🌱 **Currently Learning**: Deep learning techniques, AutoML, and model optimization.
 * ✨ **I’m looking to**: Join a tech company or pursue a Ph.D. in Machine Learning or AI.
 
 ## Skills
 
-* **Languages**: Python, Java
-* **Technologies**: TensorFlow, Keras, PyTorch, OpenCV, scikit-learn
-* **Tools**: Git, Jupyter Notebooks, VS Code
+* **Languages**: ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white), ![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=flat-square&logo=python&logoColor=ffdd54), ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+* **ML Technologies**: ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white), ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white), ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+* **Web Dev**: ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB), ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+* **Others**: ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)
+* **Tools**: ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white), ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Projects & Research
 
@@ -38,10 +40,7 @@ How to reach me **purus15987@gmail.com**
 
 ### GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purus15987&show_icons=true&locale=en&layout=compact" alt="purus15987" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purus15987&show_icons=true&locale=en" alt="purus15987" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purus15987&" alt="purus15987" /></p>
+![](https://github-readme-stats.vercel.app/api?username=purus15987&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=purus15987&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
