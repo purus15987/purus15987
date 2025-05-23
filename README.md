@@ -11,7 +11,7 @@ A Computer Science graduate from JNU (2024), currently seeking opportunities to 
 * 🎓 **Education**: Master's in Computer Science, JNU, 2024.
 * 🔬 **Interested in**: ML, NLP, and computer vision.
 * 🌱 **Currently Learning**: Deep learning techniques, AutoML, and model optimization.
-* ✨ **I’m looking to**: Join a tech company or pursue a Ph.D. in Machine Learning or AI.
+* ✨ **I’m looking to**: Join a tech company or research in Machine Learning or AI.
 
 ## Skills
 
