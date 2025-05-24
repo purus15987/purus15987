@@ -25,6 +25,79 @@ A Computer Science graduate from JNU (2024), currently seeking opportunities to 
 
 Here are some of my recent projects:
 
+### 🔬 Py-Space 🚀
+Welcome to **[Py-Space](https://github.com/purus15987/py-space)**, a diverse collection of Python-based projects ranging from machine learning and automation to computer vision and utility tools.
+
+Each notebook in this repository is designed to solve real-world problems with clean, efficient Python code.
+
+---
+
+<details>
+<summary>🔬 Data Science & Machine Learning</summary>
+
+- 📊 [RNAseq TPM Data Analysis & ML Models](https://github.com/purus15987/py-space/blob/main/Data%20Analysis%20and%20Machine%20Learning%20Models%20on%20RNAseqTPM.ipynb)  
+  Exploratory data analysis and machine learning on RNA sequencing data.
+
+- 🐦 [Twitter Tweets Analysis](https://github.com/purus15987/py-space/blob/main/twitter_tweets_analysis.ipynb)  
+  Text analytics and sentiment exploration on tweets.
+
+</details>
+
+---
+
+<details>
+<summary>🤖 Automation & Web Interaction</summary>
+
+- 🚄 [IRCTC Ticket Booking Automation & Web Scraping](https://github.com/purus15987/py-space/blob/main/IRCTC_Ticket_Booking_AUTOMATION_Web_Scraping.ipynb)  
+  Automated ticket booking with real-time scraping.
+
+- 📽️ [YouTube Video Downloader](https://github.com/purus15987/py-space/blob/main/Youtube_Video_Downloader.ipynb)  
+  Download YouTube videos with a simple script.
+
+</details>
+
+---
+
+<details>
+<summary>🖼️ Computer Vision & Image Processing</summary>
+
+- 🔐 [LSB Steganography – Hide Secret Message in Image](https://github.com/purus15987/py-space/blob/main/LSB_Steganography_Hide_Secret_Message_in_Image.ipynb)  
+  Hide text inside images using least significant bit encoding.
+
+- 🔍 [Text Extraction from Images](https://github.com/purus15987/py-space/blob/main/Text_Extraction_from_Images.ipynb)  
+  Extract text from images using OCR techniques.
+
+- 🎥 [OpenCV Projects Collection](https://github.com/purus15987/py-space/blob/main/OpenCV_projects_2.ipynb)  
+  Fun and practical vision projects using OpenCV.
+
+</details>
+
+---
+
+<details>
+<summary>🎮 Interactive & Fun Projects</summary>
+
+- 🧠 [Realtime Memory Game](https://github.com/purus15987/py-space/blob/main/Realtime_Memory_Game.ipynb)  
+  Boost your memory with a fun, interactive game.
+
+- 🌌 [Animate Image to Video – Special Project](https://github.com/purus15987/py-space/blob/main/Special_one_Animate_image_to_video.ipynb)  
+  Convert a static image into a dynamic video.
+
+</details>
+
+---
+
+<details>
+<summary>🧰 Utility Scripts</summary>
+
+- 📄 [Compress PDF Files](https://github.com/purus15987/py-space/blob/main/compress_pdf.ipynb)  
+  Reduce PDF size with Python for fast sharing and storage.
+
+</details>
+
+---
+More Projects:
+
 * **[ML Projects](https://mailapalli-purushotham15987.web.app)**: posting soon...
 * **[Computer Vision](https://mailapalli-purushotham15987.web.app)**: posting soon...
 
