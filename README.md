@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mailapalli Purushotham</h1>
-<p align="center">ML Engineer (GenAI/CV focus) | Data Scientist | Software Development Engineer (SDE)</p>
+<p align="center">ML Engineer (GenAI/CV focus) | Software Development Engineer (SDE)</p>
 
 A Computer Science graduate from JNU (2024), currently seeking opportunities to start my career as an ML Engineer or research associate. I am deeply passionate about Machine Learning, AI, and research in the tech world.
 
