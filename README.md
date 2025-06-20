@@ -7,7 +7,7 @@ A Computer Science graduate from JNU (2024), currently seeking opportunities to 
 
 ## About Me
 
-* 🌍 **Location**: India
+* 🌍 **Location**: Hyderabad, India
 * 🎓 **Education**: Master's in Computer Science, JNU, 2024.
 * 🔬 **Interested in**: ML, NLP, and computer vision.
 * 🌱 **Currently Learning**: Deep learning techniques, AutoML, and model optimization.
